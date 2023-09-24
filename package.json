@@ -15,7 +15,7 @@
         "storybook": "start-storybook -p 6006"
     },
     "keycloakify": {
-        "extraThemeProperties": [ 
+        "extraThemeProperties": [
             "foo=bar"
         ],
         "extraThemeNames": [
@@ -75,7 +75,7 @@
     },
     "browserslist": {
         "production": [
-            ">0.2%",
+            ">1%",
             "not dead",
             "not op_mini all"
         ],
